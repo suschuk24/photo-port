@@ -5,12 +5,12 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test ",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -29,7 +29,7 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.8.0",
+    "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^9.5.0"
   }
 }
